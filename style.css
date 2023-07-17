@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    color: aliceblue;
+    background-color: #171717;
+}
+.logo {
+    height: 70px;
+    width: 70px;
+}
+.header-logo{
+  font-size: 100px;
+  vertical-align: middle;
+  justify-content: flex-start;
+}
+.header-top {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
