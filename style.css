@@ -5,6 +5,7 @@
 .header {
     color: aliceblue;
     background-color: #171717;
+    padding-bottom: 30px;
 }
 .logo {
     height: 70px;
@@ -25,4 +26,20 @@ ul {
 }
 a {
     text-decoration: none;
+}
+.hbleft {
+    margin-left: 50px;
+}
+.title {
+    font-size: 50px;
+    font-weight: bold;
+}
+.img {
+    height: 300px;
+    width: auto ;
+    margin-left: 250px;
+}
+.header-body {
+    display: flex;
+    margin-top: 30px;
 }
