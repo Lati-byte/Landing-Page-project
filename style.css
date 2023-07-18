@@ -23,6 +23,9 @@
 ul {
     display: flex;
     list-style-type: none;
+    gap: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;
@@ -34,6 +37,10 @@ a {
     font-size: 50px;
     font-weight: bold;
 }
+.img1 {
+    width:150px ;
+    height:150px ;
+}
 .img {
     height: 300px;
     width: auto ;
@@ -42,4 +49,24 @@ a {
 .header-body {
     display: flex;
     margin-top: 30px;
+}
+button {
+    color: white;
+    background-color: black;
+}
+.Boxes {
+    display: flex;
+    justify-content: space-around;
+}
+.section2 {
+    margin-bottom: 40px;
+}
+span {
+    margin-left: 60px;
+}
+.h2 {
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    margin-bottom: 20px;
 }
