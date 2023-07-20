@@ -53,6 +53,8 @@ a {
 button {
     color: white;
     background-color: black;
+    padding: 5px 20px;
+    border-radius: 8px;
 }
 .Boxes {
     display: flex;
@@ -69,4 +71,35 @@ span {
     font-size: 50px;
     justify-content: center;
     margin-bottom: 20px;
+}
+.section3 {
+    margin-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #8A8A8A;
+    font-size: 20px;
+}
+.qoutes{
+    display: flex;
+    justify-content: center;
+}
+.name {
+    margin-left: 1000px;
+}
+.section4 {
+    padding: 55px 88px;
+}
+.action {
+    background-color: #8A8A8A;
+    border-radius: 4px;
+    display: flex;
+    padding: 22px;
+    justify-content: space-around;
+}
+.footer {
+    display: flex;
+    background-color: #171717;
+    color: white;
+    justify-content: center;
+    padding: 30px;
 }
